@@ -501,9 +501,37 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "anabellaspinelli",
+      "name": "Anabella",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7825875?v=4",
+      "profile": "https://github.com/anabellaspinelli",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "lsminter",
+      "name": "Lucas Minter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26470581?v=4",
+      "profile": "http://lucasminter.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "leggsimon",
+      "name": "Simon Legg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11544418?v=4",
+      "profile": "https://github.com/leggsimon",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
